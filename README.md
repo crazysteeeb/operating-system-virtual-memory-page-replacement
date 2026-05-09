@@ -58,4 +58,4 @@ Through this project, I gained experience with:
 ## Author
 
 Steve Ward  
-Computer Science Student | Army Reserve NCO | Systems Programming Enthusiast
+Computer Science Student | Systems Programming Enthusiast
